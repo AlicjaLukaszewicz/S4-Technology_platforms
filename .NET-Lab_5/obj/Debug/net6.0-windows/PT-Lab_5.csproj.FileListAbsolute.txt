@@ -1,0 +1,42 @@
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\bin\Debug\net6.0-windows\PT-Lab_5.exe
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\bin\Debug\net6.0-windows\PT-Lab_5.deps.json
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\bin\Debug\net6.0-windows\PT-Lab_5.runtimeconfig.json
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\bin\Debug\net6.0-windows\PT-Lab_5.dll
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\bin\Debug\net6.0-windows\PT-Lab_5.pdb
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.csproj.AssemblyReference.cache
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5_MarkupCompile.cache
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5_MarkupCompile.lref
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.g.resources
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.AssemblyInfoInputs.cache
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.AssemblyInfo.cs
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.dll
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\refint\PT-Lab_5.dll
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.pdb
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.genruntimeconfig.cache
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\ref\PT-Lab_5.dll
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\bin\Debug\net6.0-windows\PT-Lab_5.exe
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\bin\Debug\net6.0-windows\PT-Lab_5.deps.json
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\bin\Debug\net6.0-windows\PT-Lab_5.runtimeconfig.json
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\bin\Debug\net6.0-windows\PT-Lab_5.dll
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\bin\Debug\net6.0-windows\PT-Lab_5.pdb
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5_MarkupCompile.cache
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5_MarkupCompile.lref
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.g.resources
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.AssemblyInfo.cs
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.dll
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\refint\PT-Lab_5.dll
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.pdb
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\PT-Lab_5.genruntimeconfig.cache
+C:\Users\student\Downloads\PT-Lab_5\PT-Lab_5\obj\Debug\net6.0-windows\ref\PT-Lab_5.dll

@@ -1,0 +1,43 @@
+﻿<Window x:Class="PT_Lab_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PT_Lab_5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="395" Width="900">
+    <Grid Height="550" VerticalAlignment="Top" HorizontalAlignment="Center" Width="900">
+        <Label Content="Zadanie 1" FontWeight="Bold" VerticalContentAlignment="Center" Margin="20,11,480,501" Background="LightGray" BorderThickness="1" BorderBrush="Black"/>
+
+        <Label Content="K:" Margin="20,164,844,346" FontWeight="Bold" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="KTextBox" Text="0" Margin="60,164,760,346" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" RenderTransformOrigin="0.403,0.524"/>
+
+        <Label Content="N:" Margin="20,84,844,426" FontWeight="Bold" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="NTextBox" Text="0" Margin="60,84,760,426" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+
+        <Button Content="Tasks" Margin="160,184,640,326" Click="CalculateTaskButton_Click"/>
+        <TextBlock x:Name="TasksResultTextBlock" Margin="280,184,480,326" TextAlignment="Center" Background="LightGray" Padding="12"/>
+
+
+        <Button  Content="Delegates" Margin="160,124,640,386" Click="CalculateDelegateButton_Click"/>
+        <TextBlock x:Name="DelegatesResultTextBlock" Margin="280,122,480,386" TextAlignment="Center" Background="LightGray" Padding="12"/>
+
+        <Button Content="Async/Await" Margin="160,64,640,446" Click="CalculateAsyncAwaitButton_Click"/>
+        <TextBlock x:Name="AsyncResultTextBlock" Margin="280,64,480,446" TextAlignment="Center" Background="LightGray" Padding="12"/>
+
+        <Label Content="Zadanie 2 - Fibonacci" FontWeight="Bold" VerticalContentAlignment="Center" Margin="465,11,35,501" Background="LightGray" BorderThickness="1" BorderBrush="Black"/>
+
+        <Label Content="I:" Margin="466,63,398,447" FontWeight="Bold" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="FibTextBox" Text="0" Margin="505,64,315,446" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Button Content="Get" Margin="605,64,240,446" Click="CalculateFibButton_Click"/>
+        <TextBlock x:Name="FibResultTextBlock" Margin="680,64,35,446" TextAlignment="Center" Background="LightGray" Padding="12"/>
+        <ProgressBar x:Name="FibProgressBar" HorizontalAlignment="Left" Height="20" Margin="465,124,0,0" VerticalAlignment="Top" Width="400"/>
+        <Label Content="Zadanie 3" FontWeight="Bold" VerticalContentAlignment="Center" Margin="20,244,480,268" Background="LightGray" BorderThickness="1" BorderBrush="Black"/>
+        <Button Content="Decompress" Margin="230,294,480,216" Click="Decompress_Click" Width="190"/>
+        <Button Content="Compress" Margin="20,294,690,216" Click="Compress_Click" Width="190"/>
+
+        <Label Content="Zadanie 4: DNS" FontWeight="Bold" VerticalContentAlignment="Center" Margin="465,166,100,346" Background="LightGray" BorderThickness="1" BorderBrush="Black"/>
+        <Button Content="Resolve" Margin="810,164,35,346" Click="Resolve_Click"/>
+        <TextBox x:Name="DNSTextBox" Margin="465,219,35,216" TextAlignment="Left" Background="LightGray" Padding="12"/>
+    </Grid>
+</Window>

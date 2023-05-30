@@ -1,0 +1,39 @@
+Query Expression Syntax:
+diesel = 95.25
+petrol = 83.9015873015873
+
+Method-based Syntax:
+diesel = 95.25
+petrol = 83.9015873015873
+
+myCars sorted by horsePower:
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+
+Searching motor.displacement = 1.8 in myCars using BindingList:
+PT_Lab_4.Car
+
+Searching model A6 in myCars using BindingList:
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+
+myCars sorted by model ASC
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car
+PT_Lab_4.Car

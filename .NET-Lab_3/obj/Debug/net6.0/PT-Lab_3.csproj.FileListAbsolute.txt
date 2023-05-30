@@ -1,0 +1,15 @@
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\bin\Debug\net6.0\PT-Lab_3.exe
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\bin\Debug\net6.0\PT-Lab_3.deps.json
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\bin\Debug\net6.0\PT-Lab_3.runtimeconfig.json
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\bin\Debug\net6.0\PT-Lab_3.dll
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\bin\Debug\net6.0\PT-Lab_3.pdb
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\obj\Debug\net6.0\PT-Lab_3.csproj.AssemblyReference.cache
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\obj\Debug\net6.0\PT-Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\obj\Debug\net6.0\PT-Lab_3.AssemblyInfoInputs.cache
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\obj\Debug\net6.0\PT-Lab_3.AssemblyInfo.cs
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\obj\Debug\net6.0\PT-Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\obj\Debug\net6.0\PT-Lab_3.dll
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\obj\Debug\net6.0\refint\PT-Lab_3.dll
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\obj\Debug\net6.0\PT-Lab_3.pdb
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\obj\Debug\net6.0\PT-Lab_3.genruntimeconfig.cache
+C:\Users\Alicja\Desktop\Studia\Semestr IV\3 ECTS - Platformy technologiczne\_Laboratorium\Część_1-C#\PT-Lab_3\PT-Lab_3\obj\Debug\net6.0\ref\PT-Lab_3.dll

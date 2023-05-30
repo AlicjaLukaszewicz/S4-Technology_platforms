@@ -1,0 +1,55 @@
+-----------------------------
+| CAŁKOWITY KOSZT: 4,671 zl |
+-----------------------------
+
+https://www.userbenchmark.com/PCBuilder/Custom/S201953-M1820844.1630016.1627622.201819.89269vsS0-M?tab=RAM
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PROCESOR: Intel i5-12400F 6 x 2,5 GHz
+	Link: https://allegro.pl/oferta/intel-procesor-core-i5-12400-f-box-2-5ghz-lga1700-13280514048?utm_feed=3dca5096-1f0f-4ca6-9f37-f55ca2fec4f7&ceneo_cid=3a00edee-fd3c-09a8-26be-02b8d723da0b
+	Cena: 809,00
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Płyta główna: ASRock B660M-HDV DDR4
+	Link: https://www.x-kom.pl/p/711310-plyta-glowna-socket-1700-asrock-b660m-hdv-ddr4.html
+	Cena: 449,00
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pamięć: Silicon Power XPOWER Turbine moduł pamięci 8 GB 1 x 8 GB DDR4 3200 Mhz
+	Link: https://supertech.pl/produkt/silicon_power_xpower_turbine_modul_pamieci_8_gb_1_x_8_gb_ddr4_3200_mhz_79325698.html?ref=ceneo&ceneo_cid=9cf7bea5-c03e-3a34-5ff6-c38aec815bbc
+	Cena: 107,99 x 2 = 215,98
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Storage: Silicon Power A60 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive
+	Link: https://allegro.pl/oferta/dysk-ssd-silicon-power-a60-1tb-pcie-m-2-nvme-3x4-11217557375
+	Cena: 279, 90
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Karta graficzna: MSI Radeon RX 6650 XT MECH 2X OC 8GB GDDR6 - 735531 - zdjęcie
+	Link: https://www.x-kom.pl/p/735531-karta-graficzna-amd-msi-radeon-rx-6650-xt-mech-2x-oc-8gb-gddr6.html
+	Cena: 1 799,00
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Obudowa: be quiet! Pure Base 500 Black
+	Link: https://www.x-kom.pl/p/514676-obudowa-do-komputera-be-quiet-pure-base-500-black.html?ceneo_cid=5c82d071-11ab-ee7d-389e-915011ac5c2d
+	Cena: 419,00
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Zasilacz: EVGA B5 550W 80 Plus Bronze
+	Link: https://www.x-kom.pl/p/614475-zasilacz-do-komputera-evga-b5-550w-80-plus-bronze.html
+	Cena: 349,00
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Klawiatura: Keychron K8 Non-Backlight Wireless Mechanical Keyboard
+	Link: https://keychronpoland.com/products/keychron-k8-non-backlight-wireless-mechanical-keyboard
+	Cena: 349,00 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
